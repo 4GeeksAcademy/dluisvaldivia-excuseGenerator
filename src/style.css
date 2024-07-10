@@ -1,1 +1,18 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  font-family: Railway italic;
+  font-size: 4vw;
+}
+
+p {
+  text-align: center;
+}
+
+#frame {
+  padding: 50px;
+}
+
+#topText {
+  padding-top: 150px;
+}
